@@ -1,0 +1,24 @@
+
+
+
+                Informasi Tool 
+
+       Santet Online adalah program untuk 
+    Merusak sistem atau bisa juga untuk mata"
+       menggunakan media link phissing
+
+#About
+version : 1.0
+language: python/python3
+etc     : php, bash, html
+coding  : utf-8
+Autor   : Franz
+
+#Follow and subscribe
+IG : franz_3x0
+yt : FranzXloit
+
+copyright©2021
+
+Terimakasih Sudah Menggunakan Tool ini :)
+
